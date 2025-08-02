@@ -104,7 +104,3 @@
 Feel free to fork the repo and submit a pull request for improvements or new features.
 
 ---
-
-## 📃 License
-
-This project is licensed under the MIT License.
